@@ -1,0 +1,4 @@
+img, embed, object, video {
+	/* width: 100%;  DON'T */
+	max-width: 100%;
+}
